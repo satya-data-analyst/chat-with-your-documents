@@ -1,0 +1,30 @@
+Northwind Analytics — Employee Handbook (extract)
+
+1. Working hours
+The standard working week is 40 hours, Monday to Friday. Core hours are
+10:00 to 16:00, when all staff are expected to be available. Outside core
+hours, you may arrange your day flexibly, provided you meet your deadlines.
+
+2. Remote work
+Employees may work remotely up to three days per week. Fully remote
+arrangements require manager approval and are reviewed every six months.
+When working remotely, you must be reachable on the company chat system
+during core hours.
+
+3. Leave policy
+Full-time employees receive 24 days of paid annual leave, plus public
+holidays. Leave must be requested at least two weeks in advance for absences
+of three days or more. Unused leave may be carried over up to a maximum of
+five days into the next calendar year.
+
+4. Expenses
+Reasonable expenses are reimbursed with a receipt. Meals during travel are
+capped at 40 dollars per day. Travel must be booked through the company
+portal at least seven days in advance where possible. Approval from your
+manager is required for any single expense above 500 dollars.
+
+5. Security
+Company laptops must have full-disk encryption enabled. Passwords must be at
+least 12 characters and must not be reused across services. Any suspected
+security incident must be reported to security@northwind.example within one
+hour of discovery.
